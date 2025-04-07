@@ -1,7 +1,7 @@
 # Euclidean & Extended Euclidean Algorithm
 
-Java | December 2023 | CUS 1185 – Data Security & Cryptography
-Developer: Aidin Dzaferovic
+- Java | December 2023 | CUS 1185 – Data Security & Cryptography
+- Developer: Aidin Dzaferovic
 
 ## 📌 Overview
 
