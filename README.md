@@ -22,11 +22,11 @@ Developed for a cryptography-focused course, this project highlights algorithmic
   Applies the Extended Euclidean Algorithm to find the modular inverse of `a mod N`, if one exists.
 
 - **Clear Output**  
-  Displays meaningful console messages to explain results (or errors when an inverse doesn't exist).
+  Displays meaningful console messages to explain results or errors.
 
 ## 🧠 Concepts Used
 **Recursion**
-- – Both algorithms use recursive method calls to simplify logic
+– Both algorithms use recursive method calls to simplify logic
 
 **Modular Arithmetic** 
 – Key concept in cryptography, used for modular inverse
